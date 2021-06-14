@@ -1,4 +1,4 @@
-# islandexplore
+# island-game
 A game in test development
 
 Early Early Early Test Release coming soon, stay tuned.
